@@ -1,11 +1,3 @@
-[submodule "images"]
-	path = images
-	url = https://www.github.com/p17balo/images
-	branch = demo
-[submodule "_gallery"]
-	path = _gallery
-	url = https://www.github.com/p17balo/_gallery
-	branch = master
 [submodule "_includes/extras"]
 	path = _includes/extras
 	url = https://github.com/pibook/extras.git
@@ -17,10 +9,6 @@
 [submodule "_notes"]
 	path = _notes
 	url = https://github.com/pibook/notes.git
-	branch = master
-[submodule "_bibliography"]
-	path = _bibliography
-	url = https://github.com/pibook/bibliography.git
 	branch = master
 [submodule "_includes/text"]
 	path = _includes/text
